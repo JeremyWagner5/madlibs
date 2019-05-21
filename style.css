@@ -1,0 +1,37 @@
+
+body {
+  background-image: linear-gradient(red, blue);
+  background-repeat: no-repeat;
+  height: 100%;
+}
+li{
+  padding: 5px;
+}
+#animal:hover{
+  background-color: pink;
+
+}
+#adjective:hover{
+  background-color: red;
+}
+#name:hover{
+  background-color: teal;
+}
+#color:hover{
+  background-color: blue;
+}
+#place:hover{
+  background-color: green;
+}
+#weather:hover{
+  background-color: yellow;
+}
+#mood1:hover{
+  background-color: orange;
+}
+#mood:hover{
+  background-color: grey;
+}
+#noun:hover{
+  background-color: purple;
+}
